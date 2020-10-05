@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Blackly_/CLionProjects/JUMAO/class.cpp
+bits/stdc++.h
+-
+class.h
+C:/Users/Blackly_/CLionProjects/JUMAO/class.h
+
+C:/Users/Blackly_/CLionProjects/JUMAO/class.h
+bits/stdc++.h
+-
+
+C:/Users/Blackly_/CLionProjects/JUMAO/display.cpp
+bits/stdc++.h
+-
+
+C:/Users/Blackly_/CLionProjects/JUMAO/getResources.cpp
+
+C:/Users/Blackly_/CLionProjects/JUMAO/main.cpp
+bits/stdc++.h
+-
+misc.h
+C:/Users/Blackly_/CLionProjects/JUMAO/misc.h
+class.h
+C:/Users/Blackly_/CLionProjects/JUMAO/class.h
+
+C:/Users/Blackly_/CLionProjects/JUMAO/misc.cpp
+bits/stdc++.h
+-
+
+C:/Users/Blackly_/CLionProjects/JUMAO/misc.h
+
